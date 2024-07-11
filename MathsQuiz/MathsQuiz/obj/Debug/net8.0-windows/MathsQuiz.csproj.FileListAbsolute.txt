@@ -1,0 +1,16 @@
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\bin\Debug\net8.0-windows\MathsQuiz.exe
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\bin\Debug\net8.0-windows\MathsQuiz.deps.json
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\bin\Debug\net8.0-windows\MathsQuiz.runtimeconfig.json
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\bin\Debug\net8.0-windows\MathsQuiz.dll
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\bin\Debug\net8.0-windows\MathsQuiz.pdb
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.Form1.resources
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.csproj.GenerateResource.cache
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.AssemblyInfoInputs.cache
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.AssemblyInfo.cs
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.dll
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\refint\MathsQuiz.dll
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.pdb
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\MathsQuiz.genruntimeconfig.cache
+C:\Users\Train\source\repos\MathsQuiz\MathsQuiz\obj\Debug\net8.0-windows\ref\MathsQuiz.dll
